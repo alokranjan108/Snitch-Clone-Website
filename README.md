@@ -15,6 +15,5 @@ A clone of the Snitch e-commerce website built using HTML and CSS.
 ### Known Limitations
 - ⚠️ Not responsive (desktop only)
 
-### Live Demo
-Demo link: https://alokranjan108.github.io/Snitch-Website-Clone/
+
 
